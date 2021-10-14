@@ -1,0 +1,17 @@
+* {
+    margin:0;
+    padding:0;
+    border:0;
+    background:transparent;
+    outline:none;
+    text-decoration:none;
+    outline:none;
+    font-family:inherit;
+    box-sizing:border-box;
+}
+
+#root {
+    width: 300px;
+    height: 200px;
+    background-color: blue;
+}
